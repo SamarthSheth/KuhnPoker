@@ -1,1 +1,1 @@
-# KuhnPoker
+# Kuhn Poker
